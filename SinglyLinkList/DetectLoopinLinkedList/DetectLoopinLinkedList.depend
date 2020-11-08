@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598690538 source:c:\users\shreyansh\desktop\programs\gfg\linklist\detectloopinlinkedlist\main.cpp
+	<iostream>
+	<unordered_set>
+
