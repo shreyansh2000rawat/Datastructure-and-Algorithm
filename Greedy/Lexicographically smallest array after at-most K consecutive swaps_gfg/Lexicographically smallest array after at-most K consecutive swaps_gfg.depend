@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598871276 source:c:\users\shreyansh\desktop\programs\gfg\greedy\lexicographically smallest array after at-most k consecutive swaps_gfg\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
