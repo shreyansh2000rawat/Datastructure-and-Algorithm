@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603013597 source:c:\users\shreyansh\desktop\programs\questions_gfg\array\smallest positive missing number_gfg\main.cpp
+	<iostream>
+	<algorithm>
+
